@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "B4579",
+        "oem": "ZUK",
+        "device": "z2 plus",
+        "filename": "riceDroid-12.1-202206120257-3310-v2.0-VANILLA.zip",
+        "download": "https://sourceforge.net/projects/zuk-z2-pro-a12-test-roms/files/riceDroid-12.1-202206120258-3310-v2.0-VANILLA.zip/download",
+        "timestamp": 1654995399,
+        "md5": "171bf420499b238b50165d66b32c7282",
+        "sha256": "1645c034ab55a62c6c6f72b345ca9a0399c249eb9ed11fe971d7f36b38da41c9",
+        "size": 1105411266,
+        "version": "2.0",
+        "buildtype": "Testing",
+        "forum": "",
+        "gapps": "https://nikgapps.com/downloads#downloads",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/z2pro",
+        "dt": "",
+        "common-dt": "",
+        "kernel": ""
+    }
+  ]
+}
