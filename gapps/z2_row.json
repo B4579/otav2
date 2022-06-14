@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "B4579",
+        "oem": "ZUK",
+        "device": "z2 row",
+        "filename": "riceDroid-12.1-202206141638-3310-v2.0-GAPPS.zip",
+        "download": "https://sourceforge.net/projects/zuk-z2-pro-a12-test-roms/files/riceDroid-12.1-202206141638-3310-v2.0-GAPPS.zip/download",
+        "timestamp": 1655217481,
+        "md5": "c41874631965ccf5654f78865f783caa",
+        "sha256": "1507b66cff1863523e689bfd8f716e7145f7fc00de2e5417d87229ec80358268",
+        "size": 1179398998,
+        "version": "2.0",
+        "buildtype": "Testing",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/z2pro",
+        "dt": "",
+        "common-dt": "",
+        "kernel": ""
+    }
+  ]
+}
