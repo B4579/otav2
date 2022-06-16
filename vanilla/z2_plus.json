@@ -1,0 +1,26 @@
+{
+	"device": "z2_plus",
+	"edition": "vanilla",
+	"base": "twelve",
+	"filename": "PixysOS-v5.1.3-VANILLA-z2_plus-UNOFFICIAL-20220616-153126.zip",
+	"version": "v5.1.3",
+	"timestamp": 1655386286,
+	"filehash": "7d91cddc5c5a38168b88bc0d46a964aa",
+	"filesize": 784953106,
+	"filepath": "",
+	"release": "unofficial",
+	"deprecated": false,
+	"published": true,
+	"changelogs": "",
+	"downloads": 0,
+	"url": "",
+	"maintainers": [
+		{
+			"name": "B4579",
+			"url": ""
+		}
+	],
+	"xda_thread": "",
+	"donate_url": "",
+	"error": false
+}
