@@ -1,28 +1,28 @@
 {
-	"response": [
-		{
-			"maintainer": "B4579",
-			"oem": "Motorola",
-			"device": "Edge 30",
-			"filename": "riceDroid-13.0-2022113016-dubai-v8.6-PIXEL-COMMUNITY.zip",
-			"download": "",
-			"timestamp": 1669821890,
-			"md5": "871ba743cbc0abf9bb7c043b789a29f7",
-			"sha256": "ecc683b0c4b5342d959d482c2e40e23d4eaeb455de0d48767f55eb5175df6597",
-			"size": 1981737056,
-			"version": "8.6",
-			"buildtype": "Monthly",
-			"forum": "",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "https://t.me/MotorolaDubaiCustomRom",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
-		}
-	]
+  "response": [
+    {
+        "maintainer": "B4579",
+        "oem": "motorola",
+        "device": "dubai",
+        "filename": "riceDroid-13.0-202302282018-dubai-v10.2-PIXEL-COMMUNITY.zip",
+        "download": "https://sourceforge.net/projects/edge-30-custom-roms/files/riceDroid-13.0-202302282018-dubai-v10.2-PIXEL-COMMUNITY.zip/download",
+        "timestamp": 1677615498,
+        "md5": "22d3cf2f4a1459f3d53dc3fb44d78a75",
+        "sha256": "202f03c9f68666673248d1bf6ae462e59ed9d1a656d16e52283eeea47648c43f",
+        "size": 1928601292,
+        "version": "10.2",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/MotorolaDubaiCustomRom",
+        "dt": "",
+        "common-dt": "",
+        "kernel": ""
+    }
+  ]
 }
