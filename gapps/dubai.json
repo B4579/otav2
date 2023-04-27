@@ -1,28 +1,28 @@
 {
-  "response": [
-    {
-        "maintainer": "B4579",
-        "oem": "Motorola",
-        "device": "Edge 30",
-        "filename": "riceDroid-13.0-202302282018-dubai-v10.2-PIXEL-COMMUNITY.zip",
-        "download": "https://sourceforge.net/projects/edge-30-custom-roms/files/riceDroid-13.0-202302282018-dubai-v10.2-PIXEL-COMMUNITY.zip/download",
-        "timestamp": 1677615498,
-        "md5": "22d3cf2f4a1459f3d53dc3fb44d78a75",
-        "sha256": "202f03c9f68666673248d1bf6ae462e59ed9d1a656d16e52283eeea47648c43f",
-        "size": 1928601292,
-        "version": "10.2",
-        "buildtype": "Monthly",
-        "forum": "",
-        "gapps": "",
-        "firmware": "",
-        "modem": "",
-        "bootloader": "",
-        "recovery": "",
-        "paypal": "",
-        "telegram": "https://t.me/MotorolaDubaiCustomRom",
-        "dt": "",
-        "common-dt": "",
-        "kernel": ""
-    }
-  ]
+	"response": [
+		{
+			"maintainer": "B4579",
+			"oem": "",
+			"device": "edge 30",
+			"filename": "risingOS-v1.0-Atlantis-202304271718-dubai-PIXEL-COMMUNITY.zip",
+			"download": "",
+			"timestamp": 1682615909,
+			"md5": "74f40a481528404ca86769637fbbfaf3",
+			"sha256": "6c8999fc88b0e70d1cbf3d56a8c801ec2b5e1f504dd0bafbe65ddf5cee5b9c68",
+			"size": 1784933997,
+			"version": "v1.0-Atlantis",
+			"buildtype": "Pixel",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
 }
