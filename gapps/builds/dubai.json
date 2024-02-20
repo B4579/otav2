@@ -1,26 +1,17 @@
 {
-	"response": [
-		{
-			"maintainer": "",
-			"download": "https://sourceforge.net/projects/edge-30-custom-roms/files/evolution_dubai-ota-uq1a.240205.004-02072310-COMMUNITY-KSU.zip/download",
-            "datetime": 1708382260,
-            "filehash": "b672a3fc2ccac210d7d56a0d27f66ee7",
-            "filename": "evolution_dubai-ota-uq1a.240205.004-02192337-COMMUNITY.zip",
-            "id": "e6876621327a98c53fe7b129412e24db7ef909a829e929c965618913309e48e1",
-            "size": 1842876539
-			"version": "8.3",
-			"buildtype": "Pico Gapps",
-			"forum": "",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
-		}
-	]
+   "datetime": 1708382260,
+   "donate_url": "",
+   "error": false,
+   "filehash": "b672a3fc2ccac210d7d56a0d27f66ee7",
+   "filename": "evolution_dubai-ota-uq1a.240205.004-02192337-COMMUNITY.zip",
+   "forum_url": "",
+   "id": "e6876621327a98c53fe7b129412e24db7ef909a829e929c965618913309e48e1",
+   "maintainer": "",
+   "maintainer_url": "",
+   "news_url": "",
+   "size": 1842876539,
+   "telegram_username": "",
+   "url": "https://sourceforge.net/projects/edge-30-custom-roms/files/evolution_dubai-ota-uq1a.240205.004-02072310-COMMUNITY-KSU.zip/download",
+   "version": "8.3",
+   "website_url": ""
 }
